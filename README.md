@@ -1,3 +1,3 @@
-### Physics 202 Lab, Fall 2016
+#Physics-202-Lab-Data-Analysis
 
 Testing, testing, 123
